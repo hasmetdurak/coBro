@@ -1,4 +1,4 @@
-CoBro Stream 
+CoBro Stream (Container Brodcast Stream)
 
 Hey there! I'm an indie dev pouring my heart into CoBro Stream, a game-changing live streaming platform that delivers 1080p, 4K video with sub-100ms latency—all straight from your browser! Built with WebRTC and VP9, this is my dream to make real-time streaming accessible for everyone, from gamers to sports fans to virtual concert-goers. No hefty server costs, no downloads, just pure, low-latency magic. 
 Why CoBro Stream?
@@ -25,7 +25,7 @@ Broadcasters: Pro ($29.90/mo, 720p), Premium ($49.90/mo, 1080p), Enterprise ($99
 
 
 
-Tech Stack 🛠
+Tech Stack 
 
 Frontend: React.js, Tailwind CSS, WebRTC, FFmpeg.js (for browser-based VP9 encoding).
 Backend: Node.js, Express, Socket.IO (WebRTC signaling), Redis (peer discovery).
