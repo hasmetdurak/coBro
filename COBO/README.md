@@ -3,7 +3,7 @@
 > Indie-built container-native WebRTC broadcasting platform with under-100ms latency and no BS.
 
 ## 🌟 Why CoBro?
-- Built for developers, streamers, and rebels who want freedom from bloated IPTV platforms.
+- Built for developers, streamers, and rebels who want freedom from bloated stream platforms.
 - Runs on containers. Broadcasts from browsers.
 - Streams in real-time. Literally milliseconds.
 
@@ -18,8 +18,8 @@
 ## 📦 Setup
 
 ```bash
-git clone https://github.com/yourname/cobro-stream
-cd cobro-stream
+git clone https://github.com/hasmetdurak/cobro
+cd cobro
 ```
 
 ### Backend
